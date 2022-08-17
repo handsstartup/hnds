@@ -108,7 +108,7 @@ header main p {
     SECTION - CONTACT
 *********************/
 .contact {
-  background-image: url("/app/assets/images/fundo-others.webp");
+  background-image: url("/assets/images/fundo-others.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -136,7 +136,7 @@ header main p {
         FOOTER
 *********************/
 footer {
-  background-image: url("/app/assets/images/fundo-others.webp");
+  background-image: url("/assets/images/fundo-others.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
